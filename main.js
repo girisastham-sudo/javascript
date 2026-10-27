@@ -54,3 +54,8 @@ for (let i = 1; i <= 5; i++) {
     console.log(i);
 }
 const d = new Date("October 13, 2014 11:13:00");
+const car = {
+  type: "Fiat",
+  model: "500",
+  color: "white"
+};
