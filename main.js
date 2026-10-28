@@ -59,3 +59,5 @@ const car = {
   model: "500",
   color: "white"
 };
+Math.round(4.5);
+Math.round(4.4);
