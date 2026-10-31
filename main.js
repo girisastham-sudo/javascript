@@ -76,3 +76,7 @@ text += cars[5] + "<br>";
 for (let i = 0; i < cars.length; i++) {
   text += cars[i] + "<br>";
 }
+function sayHello() { return "Hello World"; }
+function sayHello() {
+  return "Hello World";
+}
