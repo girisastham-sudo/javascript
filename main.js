@@ -85,3 +85,10 @@ function sayHello() {
 }
 
 sayHello();
+// Call a Timeout
+setTimeout(myFunction, 3000);
+
+// The callback function
+function myFunction() {
+  myDisplayer("Hello!");
+}
