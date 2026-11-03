@@ -92,3 +92,6 @@ setTimeout(myFunction, 3000);
 function myFunction() {
   myDisplayer("Hello!");
 }
+for (let i = 0; i < 5; i++) {
+  text += "The number is " + i + "<br>";
+}
