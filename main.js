@@ -106,3 +106,6 @@ new Date(year,month,day,hours,minutes,seconds)
 new Date(year,month,day,hours,minutes,seconds,ms)
 
 new Date(milliseconds)
+for (let i = 0; i < cars.length; i++) {
+  text += cars[i] + "<br>";
+}
