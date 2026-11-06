@@ -109,3 +109,4 @@ new Date(milliseconds)
 for (let i = 0; i < cars.length; i++) {
   text += cars[i] + "<br>";
 }
+let x = Number.MIN_VALUE;
