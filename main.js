@@ -48,3 +48,6 @@ function myname()
 {
     return"giri"
 }
+fetch(url)
+.then(response => response.arrayBuffer())
+.then(arrayBuffer =>...);
