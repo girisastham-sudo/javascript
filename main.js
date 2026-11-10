@@ -51,3 +51,6 @@ function myname()
 fetch(url)
 .then(response => response.arrayBuffer())
 .then(arrayBuffer =>...);
+function sayHello() {
+  return "Hello World";
+}
