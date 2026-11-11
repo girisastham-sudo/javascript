@@ -54,3 +54,6 @@ fetch(url)
 function sayHello() {
   return "Hello World";
 }
+if (hour < 18) {
+  greeting = "Good day";
+}
