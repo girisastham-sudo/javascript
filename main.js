@@ -62,3 +62,5 @@ fruits.set("apples", 500);
 fruits.set("bananas", 300);
 fruits.set("oranges", 200);
 let text = "John Doe";
+let text = "HELLO WORLD";
+let char = text.charAt(0);
