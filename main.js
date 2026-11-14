@@ -64,3 +64,5 @@ fruits.set("oranges", 200);
 let text = "John Doe";
 let text = "HELLO WORLD";
 let char = text.charAt(0);
+let a = 3;
+let x = (100 + 50) * a;
