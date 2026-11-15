@@ -66,3 +66,8 @@ let text = "HELLO WORLD";
 let char = text.charAt(0);
 let a = 3;
 let x = (100 + 50) * a;
+function sayHello() {
+  return "Hello World";
+}
+
+let message = sayHello();
