@@ -76,3 +76,5 @@ let y = 2;
 let z = x + y;
 import { add } from './math.js';
 let result = add(2, 3);
+let x = 123e5;    // 12300000
+let y = 123e-5
