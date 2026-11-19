@@ -78,3 +78,8 @@ import { add } from './math.js';
 let result = add(2, 3);
 let x = 123e5;    // 12300000
 let y = 123e-5
+
+function myFunction() {
+  let carName = "Volvo";
+  // code here CAN use carName
+}
