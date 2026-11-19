@@ -81,5 +81,4 @@ let y = 123e-5
 
 function myFunction() {
   let carName = "Volvo";
-  // code here CAN use carName
 }
