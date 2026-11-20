@@ -82,3 +82,6 @@ let y = 123e-5
 function myFunction() {
   let carName = "Volvo";
 }
+let x = 5;
+let y = 6;
+let z = x + y;
