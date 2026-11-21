@@ -87,3 +87,4 @@ let y = 6;
 let z = x + y;
 setTimeout(myFunction, 3000);
 fruits.get("apples");    
+Math.round(4.4);
