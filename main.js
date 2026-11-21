@@ -86,4 +86,4 @@ let x = 5;
 let y = 6;
 let z = x + y;
 setTimeout(myFunction, 3000);
-
+fruits.get("apples");    
