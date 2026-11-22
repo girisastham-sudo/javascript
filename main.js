@@ -88,3 +88,9 @@ let z = x + y;
 setTimeout(myFunction, 3000);
 fruits.get("apples");    
 Math.round(4.4);
+const car = {
+  type: "Fiat",
+  model: "500",
+  color: "white"
+};
+
