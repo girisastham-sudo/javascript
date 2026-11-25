@@ -73,3 +73,35 @@ else
 {
     console.log("You need to do your homework")
 }
+console.log(true && false)
+console.log(true && true)
+console.log(false || true)
+console.log(false || false)
+console.log(!true)
+console.log(!false)
+var color="yellow"
+if(color=="red")
+{
+    console.log("stop")
+}
+else if(color=="yellow")
+{
+    console.log("slow down")
+}
+else
+{
+    console.log("go")
+}
+var score = 90
+if(score<=50)
+{
+    console.log("You need to improve")
+}
+else if(score>50 && score<70)
+{
+    console.log("You are doing well")
+}
+else 
+{
+    console.log("Excellent")
+}
