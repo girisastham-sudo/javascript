@@ -105,3 +105,24 @@ else
 {
     console.log("Excellent")
 }
+for(i=1;i<=10;i++)
+{
+    console.log(i)
+}
+for(i=1;i<=10;i++)
+{
+    console.log("GIRI")
+}
+for(i=10;i>=1;i--)
+{
+    console.log(i)
+}
+for(i=1;i<=10;i+=2)
+{
+    console.log(i)
+}
+//two table
+for (i=1;i<=10;i++)
+{
+    console.log(i + " * 2 = " + (i * 2))
+}
